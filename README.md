@@ -4,7 +4,7 @@
 -------------------------------------------------------------------------------------------------------------------
 ### Featured UX Projects
 -----------------
-#### User Experience Designer | SAFOME | 3 month end to end project 
+## User Experience Designer | SAFOME | 3 month end to end project 
 A “Secure” Smart Home Mobile Application that protects user   privacy and secures their data, while enjoying the perks of smart home devices.
 
 #### Architectural Designer/ Architectural Technician II | Aria Group Architects | Chicago, IL		|	06/15 – 12/16
