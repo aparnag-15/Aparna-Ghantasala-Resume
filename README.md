@@ -1,6 +1,6 @@
-# Aparna Ghantasala <br>
-### UX Designer | Architect | Project Manager <br>
-### Redmond, WA | ghantasala.aparna@gmail.com | [LinkedIn](https://www.linkedin.com/in/aparna-ghantasala/) | [Portfolio](https://www.aparnadesigns.com/)
+# Aparna Ghantasala <br> UX / UI Designer | Architect | Project Manager
+### Redmond, WA 
+### ghantasala.aparna@gmail.com | [LinkedIn](https://www.linkedin.com/in/aparna-ghantasala/) | [Portfolio](https://www.aparnadesigns.com/)
 -------------------------------------------------------------------------------------------------------------------
 ### EXPERIENCE
 -----------------
