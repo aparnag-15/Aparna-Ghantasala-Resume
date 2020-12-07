@@ -2,7 +2,7 @@
 ### User Expereince Designer, Redmond, WA 
 ### | [Email](ghantasala.aparna@gmail.com) | [LinkedIn](https://www.linkedin.com/in/aparna-ghantasala/) | [Portfolio](https://www.aparnadesigns.com/) |
 -------------------------------------------------------------------------------------------------------------------
-### EXPERIENCE
+### Featured UX Projects
 -----------------
 #### Architect- Project/Program Manager | Key Concepts Construction | Kirkland, WA		|	01/17 – Present
 A Design build company focussing on design and construction of high-end single family homes in the Eastside Seatte area.
