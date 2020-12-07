@@ -4,11 +4,8 @@
 -------------------------------------------------------------------------------------------------------------------
 ### Featured UX Projects
 -----------------
-#### Architect- Project/Program Manager | Key Concepts Construction | Kirkland, WA		|	01/17 – Present
-A Design build company focussing on design and construction of high-end single family homes in the Eastside Seatte area.
-- Designed custom homes and spec homes for a varied group of individuals, by gathering and evaluating client requirements, conducting user research tasks, illustrated the design via story boards with sketches, plans and reference image, and developed mockups and prototype designs. 
--Conducted client meetings leading to adjustustments in design and eventually coming up with the most workable plan to the clients satisfaction. Research of economical construction practices helped in Developing technical construction drawings,tables and documents to code, for the permit process from the city.
-- Led the design construction projects by developing project specifications, estimating and managing the project budget, coordinated with subcontractors, vendors, stakeholders, and all the individuals involved in the project to support the timely completion our projects. 
+#### User Experience Designer | SAFOME | 3 month end to end project 
+A “Secure” Smart Home Mobile Application that protects user   privacy and secures their data, while enjoying the perks of smart home devices.
 
 #### Architectural Designer/ Architectural Technician II | Aria Group Architects | Chicago, IL		|	06/15 – 12/16
 A multi disciplinary company .
