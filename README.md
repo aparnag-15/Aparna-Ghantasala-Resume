@@ -1,11 +1,11 @@
-## Aparna Ghantasala
-#### User Expereince Designer, Redmond, WA 
+# Aparna Ghantasala
+### User Expereince Designer, Redmond, WA 
 [Email](ghantasala.aparna@gmail.com) | [LinkedIn](https://www.linkedin.com/in/aparna-ghantasala/) | [Portfolio](https://www.aparnadesigns.com/) 
 
 -------------------------------------------------------------------------------------------------------------------
-
 ## SUMMARY
 With my background in Architecture and Urban design, I leverage my skills to design luxurious single-family homes to create a holistic living experience with emphasis on user interaction with his house. My passion to always learn and grow as a designer motived me to skill build and simultaneously volunteer as a UX designer at Puget Sound Project Management Institute (PSPMI), to create and deliver website designs for multiple portfolios by prioritizing business needs and communicating well-reasoned and creative design ideas to diverse teams.
+## Professional Experience
 ### Featured UX Projects
 -----------------
 ### User Experience Designer | SAFOME | 3 month end to end project 
