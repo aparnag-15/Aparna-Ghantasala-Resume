@@ -9,13 +9,13 @@ With my background in Architecture and Urban design, I leverage my skills to des
 
 ## Skills
 
-### Research and Design
+#### Research and Design
 * User research, Competitive Research, Information Architecture, Wireframing, Prototyping, Responsive web design (for desktop, mobile), Usability Testing, Design thinking,  Information Architecture, User Journey, Wireframes,  Critical Problem Solving, Visual Design
 
-### Softwares
+#### Softwares
 * Adobe XD, Figma, Google analytics, Marvel POP, InVision Studio, Team Gantt, Fresco, Illustrator, InDesign, Microsoft Office, Basic HTML and CSS
 
-### Softskills
+#### Softskills
 * Project Management, Critical Problem Solver, Good Team player, Energetic and Optimistic, Organized, Always ready to learn, Team Leader, Good communicator, Mentor, Detail Oriented and Hardworking 
 
 ## Professional Experience
@@ -31,13 +31,13 @@ With my background in Architecture and Urban design, I leverage my skills to des
 #### Architect and Project Manager | Key Concepts Construction, Seattle, WA | Dec 2017- Feb 2020
 
 
-### Featured UX Projects
+## Featured UX Projects
 
-### User Experience Designer | SAFOME | 3 month end to end project 
+#### User Experience Designer | SAFOME | 3 month end to end project 
 * A “Secure” Smart Home Mobile Application that protects user privacy and secures their data, while enjoying the perks of smart speakers and other smart home devices.
 * Designed smart cloud based solutions to notify as smart speakers record conversations and let the users see and be in control of their data. 
 
-### User Experience Designer | CityPups | Modified GV Sprint 
+#### User Experience Designer | CityPups | Modified GV Sprint 
 * Website design that helps customers look for a dog and adopt one effeciently.
 * This product supports easy profiel setup and helps user find a perfect dog by matching a customer requirement profile to dog’s personality profile
 
