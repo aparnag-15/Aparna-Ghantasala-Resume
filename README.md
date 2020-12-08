@@ -29,7 +29,18 @@ With my background in Architecture and Urban design, I leverage my skills to des
 * Proposed compelling design solutions and an interactive prototype for the onboarding to guide users as they used the tool hands on and requested personal information only when necessary. For the save feature, I proposed a solutions that could help the user export the Saved Ads as .csv file and published Ads efficiently.
 
 #### Architect and Project Manager | Key Concepts Construction, Seattle, WA | Dec 2017- Feb 2020
+* Designed end to end luxurious custom and spec single family homes to create extraordinary living experiences while adhering to business goals and project limitations. 
+* Created compelling designs, interactive prototypes, client presentations, and refined final designs all the way through the construction process.
+* Managed construction projects by collaborating and communicating design ideas to diverse teams for a timely delivery of projects from concept to reality
 
+#### Architectural Designer | Aria Group Architects, Chicago, IL | Oct 2016- July 2017
+* Designed restaurant projects ready to build focussing on an extraordinary dining experience at Top Golf, Dave and Busters, Nando’s, California Pizza Kitchen and prorotype for Topgolf V2.3 
+
+#### Research Fellow | Community Design Lab, Ames, IA | August 2015- June 2016
+* Researched community activities to develop a customer centered food system to distribute food and reduce waste.
+
+#### Junior Architect | Aniruddha Vaidya Associates And Srikant Lele Architects Pune, India |August 2012- July 2014
+* Designed multidisciplinary projects and assisted in product development.
 
 ## Featured UX Projects
 
@@ -45,40 +56,6 @@ With my background in Architecture and Urban design, I leverage my skills to des
 * A desktop application to enhance online learning for students who are currently enrolled at Universities and have shifted to remote leaning due to Covid-19. 
 * This product motivated students to learn better, interact with professors and collborate with peers effectively
 
-
-
-#### Architect / Researcher | Community design Lab, Iowa State University | Ames, IA		|	05/15 – 05/16
-The Community Design Lab (CDL) is a partnership between the Iowa State University College of Design, and ISU Extension and Outreach Community and Economic Development (CED). CDL works with community leaders, nonprofit organizations, and government agencies throughout the state of Iowa, using design knowledge and research expertise to help shape vibrant and empowered communities.
--	Spatially analyzed Food, Income, and Access with Graphical Information Systems (GIS) to reduce food wastage and researched to propose the most appropriate design strategy of food system to increase food circulation
--	Worked across scales, connecting regional issues to local solutions and finding synergy between urban and rural issues was part of the research.
-
-#### Junior Architect	| Srikant Lele and Associates | Pune, India	|	01/14 – 08/14
-An architecture and interior design build company which has a fresh contemporary approach towards commercial projects has helped me master my skills in building code reseach, develop a holistic project specifics.
--	Developed project specifications for commercial and interior design projects while co-managing the projects until completion.
-
-#### Architectural Intern	| Aniruddha Vaidya Associates | Pune, India	|	05/12 – 12/12
-A multi-disciplinary design build company focussing on residential, commercial, senior housing, which are primarily low cost development projects where I learnt the importance of project budgeting, how to formulate a budget and skit to it.
-- Designed educational institutions and provided techincal support for permit drawings and assisted during construction.
-
-
-
--------------------------------------------------------------------------------------
-
-### PROJECTS
---------------
-[Luxury Homes Web Portfolio:](https://issuu.com/aparnaghantasala3/docs/aparna_ghantasala-_architectural_design_portfolio-)
-- This porfolio is quick glimpse to showcase the high-end single family luxury homes to clients. It is a quick way to attract clients during a brief conversation.
-
-[Website Design:](https://www.keyconcepts-co.com/)
-- Website designed to showcase the work done by Key Concepts Construction.
-
-[Book Design:](http://online.anyflip.com/uvzt/fvij/mobile/index.html)
-- This book is a result of a research conducted on small scale agriculture practices in the Midwest USA. This book was part of a user study, to analyze how many people were interested in the book, and found it helpful in some way.
-- Illustration method of the research is in form of posters at local stores and a mini book incase someone was interestd. This research study was conducted in libraries and specific local stores in Ames, IA.
-
-
---------------------------------------------------------------------------------------
-##
 ## EDUCATION
 Springboard UX/UI Career Track | UX/ UI Fellow | March 2020- Present
 
