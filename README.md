@@ -5,6 +5,13 @@
 -------------------------------------------------------------------------------------------------------------------
 ## SUMMARY
 With my background in Architecture and Urban design, I leverage my skills to design luxurious single-family homes to create a holistic living experience with emphasis on user interaction with his house. My passion to always learn and grow as a designer motived me to skill build and simultaneously volunteer as a UX designer at Puget Sound Project Management Institute (PSPMI), to create and deliver website designs for multiple portfolios by prioritizing business needs and communicating well-reasoned and creative design ideas to diverse teams.
+## Skills
+#### Research and Design
+User research, Competitive Research, Information Architecture, Wireframing, Prototyping, Responsive web design (for desktop, mobile), Usability Testing, Design thinking,  Information Architecture, User Journey, Wireframes,  Critical Problem Solving, Visual Design
+#### Softwares
+Adobe XD, Figma, Google analytics, Marvel POP, InVision Studio, Team Gantt, Fresco, Illustrator, InDesign, Microsoft Office, Basic HTML and CSS
+#### Softskills
+Critical Problem Solver, Good Team player, Energetic and Optimistic, Organized, Always ready to learn, Team Leader, Good communicator, Mentor, Detail Oriented and Hardworking 
 ## Professional Experience
 #### UX Designer (Volunteer) | Puget Sound PMI, Seattle, WA | Sept 2020- Present
 * Design unique solutions for PMI’s live website and social media’s visual content while working closely with the development team and portfolio groups.
