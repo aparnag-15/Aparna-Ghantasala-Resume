@@ -5,7 +5,7 @@
 
 -------------------------------------------------------------------------------------------------------------------
 ## Summary
-With my background in Architecture and Urban design, I leverage my skills to design luxurious single-family homes to create a holistic living experience with emphasis on user interaction with his house. My passion to always learn and grow as a designer motived me to skill build and simultaneously volunteer as a UX designer at Puget Sound Project Management Institute (PSPMI), to create and deliver website designs for multiple portfolios by prioritizing business needs and communicating well-reasoned and creative design ideas to diverse teams.
+With my background in Architecture and Urban design, I design luxurious single-family homes to create a extraordinary living experiences with emphasis on interaction. My passion to always learn and grow as a designer motived me to build my  and simultaneously volunteer as a UX designer at Puget Sound Project Management Institute (PSPMI), to create and deliver website designs for multiple portfolios by prioritizing business needs and communicating well-reasoned and creative design ideas to diverse teams.
 
 ## Skills
 
@@ -57,11 +57,9 @@ With my background in Architecture and Urban design, I leverage my skills to des
 * This product motivated students to learn better, interact with professors and collborate with peers effectively
 
 ## EDUCATION
-Springboard UX/UI Career Track | UX/ UI Fellow | March 2020- Present
-
-Iowa State University | Masters In Urban Design (MUD) | May 2015- Mar 2016
-
-University Of  Pune | Bachelors In Architecture (B.Arch) | May 2008- Mar 2013
+* Springboard UX/UI Career Track | UX/ UI Fellow | March 2020- Present
+* Iowa State University | Masters In Urban Design (MUD) | May 2015- Mar 2016
+* University Of  Pune | Bachelors In Architecture (B.Arch) | May 2008- Mar 2013
 
 ## Achievements 
 * In Top 5 at Austin's Design Week 2020 to solve- How Might We leverage design in a virtual setting
