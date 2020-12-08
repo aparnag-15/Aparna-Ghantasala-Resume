@@ -57,19 +57,13 @@ A multi-disciplinary design build company focussing on residential, commercial, 
 
 --------------------------------------------------------------------------------------
 
-### EDUCATION | CERTIFICATIONS
+## EDUCATION
 ------------------------------------------
-*Iowa State University, Ames,IA*		
-Master in Urban Design - 05/2016
+Springboard UX/UI Career Track | UX/ UI Fellow | March 2020- Present
 
-*Community Design Lab, Ames, IA*
-Research Scholar- 6/2016
+Iowa State University | Masters In Urban Design (MUD) | May 2015- Mar 2016
 
-*D.Y Patil College of Architecture, Pune, India* 
-Bachelor in Architecture - 04/2013
-
-*CADD Center, Pune*
-Certified in Basic and Advanced Revit - 7/2010
+University Of  Pune | Bachelors In Architecture (B.Arch) | May 2008- Mar 2013
 
 ---------------------------------------------------------------------------------------
 
