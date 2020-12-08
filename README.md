@@ -85,3 +85,8 @@ Springboard UX/UI Career Track | UX/ UI Fellow | March 2020- Present
 Iowa State University | Masters In Urban Design (MUD) | May 2015- Mar 2016
 
 University Of  Pune | Bachelors In Architecture (B.Arch) | May 2008- Mar 2013
+
+## Achievements 
+* In Top 5 at Austin's Design Week 2020 to solve- How Might We leverage design in a virtual setting
+* Designed a mobile application solution for smart dog collars and redesigned Zeitcaster website, competing in 4 challenges at UX Desing Hackathon 2020 with 140 other teams
+* Wrote a Research Paper- Project Assessment Evaluator to evaluate teh success of Architectural projects at multiple stages and improve team performance 
