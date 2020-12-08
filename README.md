@@ -6,6 +6,12 @@
 ## SUMMARY
 With my background in Architecture and Urban design, I leverage my skills to design luxurious single-family homes to create a holistic living experience with emphasis on user interaction with his house. My passion to always learn and grow as a designer motived me to skill build and simultaneously volunteer as a UX designer at Puget Sound Project Management Institute (PSPMI), to create and deliver website designs for multiple portfolios by prioritizing business needs and communicating well-reasoned and creative design ideas to diverse teams.
 ## Professional Experience
+#### UX Design Intern | Copysmith SFO, CA | Oct2020- Nov 2020
+* Copysmith, a startup hired me to design a user onboarding solution that did not require any physical assistance and a solution to save the generated Google Ad copy. 
+* Proposed an onboarding solution to guide users as they used the tool hands on and requested personal information only when necessary. For the save feature, I proposed a solutions that could help the user export the Saved Ads as .csv file and published Ads efficiently.
+
+
+
 ### Featured UX Projects
 -----------------
 ### User Experience Designer | SAFOME | 3 month end to end project 
