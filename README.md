@@ -1,3 +1,4 @@
+-------------------------------------------------------------------------------------------------------------------
 # Aparna Ghantasala
 ### User Expereince Designer, Redmond, WA 
 [Email](ghantasala.aparna@gmail.com) | [LinkedIn](https://www.linkedin.com/in/aparna-ghantasala/) | [Portfolio](https://www.aparnadesigns.com/) 
@@ -11,7 +12,7 @@ With my background in Architecture and Urban design, I leverage my skills to des
 #### Softwares
 * Adobe XD, Figma, Google analytics, Marvel POP, InVision Studio, Team Gantt, Fresco, Illustrator, InDesign, Microsoft Office, Basic HTML and CSS
 #### Softskills
-* Critical Problem Solver, Good Team player, Energetic and Optimistic, Organized, Always ready to learn, Team Leader, Good communicator, Mentor, Detail Oriented and Hardworking 
+* Project Management, Critical Problem Solver, Good Team player, Energetic and Optimistic, Organized, Always ready to learn, Team Leader, Good communicator, Mentor, Detail Oriented and Hardworking 
 ## Professional Experience
 #### UX Designer (Volunteer) | Puget Sound PMI, Seattle, WA | Sept 2020- Present
 * Design unique solutions for PMI’s live website and social media’s visual content while working closely with the development team and portfolio groups.
@@ -63,17 +64,10 @@ A multi-disciplinary design build company focussing on residential, commercial, 
 
 
 --------------------------------------------------------------------------------------
-
+##
 ## EDUCATION
 Springboard UX/UI Career Track | UX/ UI Fellow | March 2020- Present
 
 Iowa State University | Masters In Urban Design (MUD) | May 2015- Mar 2016
 
 University Of  Pune | Bachelors In Architecture (B.Arch) | May 2008- Mar 2013
-
----------------------------------------------------------------------------------------
-
-### SKILLS
-------------
-- Project Management, Project Coordination, Project Specification, Program Management, Geographical Information Systems(GIS)
-- Team Gantt, Autodesk Autocad, Autodesk Revit, Adobe Illustrator, Adobe InDesign, Adobe Photoshop,  Sketch up, Sketch, MS Office Suite
